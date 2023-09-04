@@ -5,6 +5,5 @@ $doc = <<<start
     <b> We offer you the best items with most resonable values.<br></b>
     <i> Come shop with us <b>right now.</b></i>
 start;
-
 echo $doc;
 ?>
